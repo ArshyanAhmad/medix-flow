@@ -19,7 +19,7 @@ const App = () => {
             closeOnClick
             pauseOnHover
          />
-
+         {/* this is navbar */}
          <Navbar />
       </div>
    ) : (
